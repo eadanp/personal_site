@@ -10,7 +10,7 @@
         Eadan Plotnizky <span class="text-slate-900">Software Engineer</span>
       </h1>
       <p class="py-6 text-xl">
-        I'm a software engineer and a cybersecurity researcher.
+        I'm a software engineer and I love building cool shit.
       </p>
       <button class="btn btn-primary"><a href="resume.pdf">Resume</a></button>
     </div>

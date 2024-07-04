@@ -10,7 +10,7 @@
       </h1>
     </a>
 
-    <nav class="md:flex items-center gap-4 lg:gap-6">
+    <nav class="flex items-center gap-6">
       <a
         href="https://github.com/eadanp"
         class="duration-200 hover:text-indigo-400"
