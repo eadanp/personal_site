@@ -14,7 +14,9 @@
       <p class="py-6 text-xl">
         I'm a software engineer and I love building cool shit.
       </p>
-      <button class="btn btn-primary"><a href="resume.pdf">Resume</a></button>
+      <button class="btn btn-primary bg-indigo-500 border-indigo-500"
+        ><a href="resume.pdf" class="text-slate-300">Resume</a></button
+      >
     </div>
   </div>
 </div>
