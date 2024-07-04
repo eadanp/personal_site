@@ -6,7 +6,7 @@
       class="max-w-sm rounded-lg shadow-2xl"
     />
     <div>
-      <h1 class="text-5xl font-bold text-indigo-400 flex flex-col gap-2">
+      <h1 class="text-5xl font-bold text-indigo-500 flex flex-col gap-2">
         Eadan Plotnizky <span class="text-slate-900 text-4xl"
           >Software Engineer</span
         >

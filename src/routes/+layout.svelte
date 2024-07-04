@@ -7,6 +7,8 @@
   injectSpeedInsights();
 </script>
 
-<Header />
-<slot />
-<Footer />
+<div class="flex flex-col">
+  <Header />
+  <slot />
+  <Footer />
+</div>
