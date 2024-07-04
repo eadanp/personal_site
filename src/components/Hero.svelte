@@ -7,7 +7,9 @@
     />
     <div>
       <h1 class="text-5xl font-bold text-indigo-400 flex flex-col gap-2">
-        Eadan Plotnizky <span class="text-slate-900">Software Engineer</span>
+        Eadan Plotnizky <span class="text-slate-900 text-4xl"
+          >Software Engineer</span
+        >
       </h1>
       <p class="py-6 text-xl">
         I'm a software engineer and I love building cool shit.
