@@ -1,21 +1,21 @@
 <main
-  class="bg-slate-300 h-screen mx-auto poppins font-semibold text-lg sm:text-xl md:text-2xl"
+  class="bg-slate-300 min-h-screen mx-auto poppins font-semibold text-lg sm:text-xl md:text-2xl"
 >
   <div
-    class="mx-auto flex flex-col items-center justify-center gap-28 p-32 py-6"
+    class="mx-auto flex flex-col items-center justify-center gap-12 p-4 sm:gap-20 sm:p-16 md:gap-28 md:p-32"
   >
-    <h1 class="mx-auto poppins font-semibold text-5xl sm:text-5xl md:text-5xl">
+    <h1 class="mx-auto poppins font-semibold text-xl sm:text-2xl md:text-5xl">
       I am...
     </h1>
-    <div class="flex flex-col gap-20 w-full mx-auto">
-      <div class="flex gap-6 sm:gap-8">
+    <div class="flex flex-col gap-12 w-full mx-auto sm:gap-16 md:gap-20">
+      <div class="flex flex-col gap-4 sm:flex-row sm:gap-8">
         <p
-          class="poppins text-4xl sm:text-5xl md:text-6xl text-indigo-500 font-semibold"
+          class="poppins text-2xl sm:text-xl md:text-6xl text-indigo-500 font-semibold"
         >
           01
         </p>
-        <div class="flex flex-col gap-6 sm:gap-8">
-          <h3 class="text-2xl sm:text-3xl md:text-5xl">a developer</h3>
+        <div class="flex flex-col gap-4 sm:gap-8">
+          <h3 class="text-lg sm:text-xl md:text-5xl">a developer</h3>
           <p>
             Currently I work as a Backend Software Engineer at <a
               href="https://www.outboundiq.com"
@@ -27,14 +27,14 @@
           </p>
         </div>
       </div>
-      <div class="flex gap-6 sm:gap-8">
+      <div class="flex flex-col gap-4 sm:flex-row sm:gap-8">
         <p
-          class="poppins text-4xl sm:text-5xl md:text-6xl text-indigo-500 font-semibold"
+          class="poppins text-2xl sm:text-xl md:text-6xl text-indigo-500 font-semibold"
         >
           02
         </p>
-        <div class="flex flex-col gap-6 sm:gap-8">
-          <h3 class="text-2xl sm:text-3xl md:text-5xl">a student</h3>
+        <div class="flex flex-col gap-4 sm:gap-8">
+          <h3 class="text-lg sm:text-xl md:text-5xl">a student</h3>
           <p>
             I am a computer science and cybersecurity student at <a
               href="https://www.fau.edu"
@@ -44,7 +44,7 @@
             >
             where I continue to learn and grow my skills. I am also working on a
             research in the field of the Internet of Battlefield Things (IoBT) where
-            I contribute to academic papers that are under review or upcomming publications.
+            I contribute to academic papers that are under review or upcoming publications.
           </p>
         </div>
       </div>
