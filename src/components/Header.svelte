@@ -19,9 +19,6 @@
         class="duration-200 hover:text-indigo-500"
         ><i class="fa-brands fa-linkedin fa-2xl"></i></a
       >
-      <a href="/blog" class="duration-200 hover:text-indigo-500"
-        ><i class="fa-solid fa-blog fa-2xl"></i></a
-      >
     </nav>
   </div>
 </header>
