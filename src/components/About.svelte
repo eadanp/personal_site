@@ -10,7 +10,7 @@
       <div class="flex flex-col gap-4 sm:gap-8">
         <h3 class="text-2xl md:text-5xl">a developer</h3>
         <p>
-          Currently I work as a Backend Software Engineer at <a
+          Currently I work as a Backend Developer at <a
             href="https://www.outboundiq.com"
             ><span class="text-indigo-700">outboundIQ</span></a
           > where I help solve complex problems and build scalable solutions. I have
