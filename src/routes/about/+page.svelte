@@ -2,7 +2,7 @@
   class="bg-slate-300 h-screen mx-auto poppins font-semibold text-lg sm:text-xl md:text-2xl"
 >
   <div
-    class="mx-auto flex flex-col items-center justify-center gap-28 p-4 py-6"
+    class="mx-auto flex flex-col items-center justify-center gap-28 p-32 py-6"
   >
     <h1 class="mx-auto poppins font-semibold text-5xl sm:text-5xl md:text-5xl">
       I am...
