@@ -14,7 +14,9 @@
       <p class="py-6 text-xl">
         I'm a software engineer and I love building cool shit.
       </p>
-      <div class="flex items-center gap-10">
+      <div
+        class="flex flex-row flex-wrap items-center justify-center gap-4 md:gap-6 lg:gap-10"
+      >
         <button class="btn btn-primary bg-indigo-500 border-indigo-500"
           ><a href="/about" class="text-slate-300">About</a></button
         >
