@@ -4,18 +4,14 @@
   <div
     class="mx-auto flex flex-col items-center justify-center gap-12 p-4 sm:gap-20 sm:p-16 md:gap-28 md:p-32"
   >
-    <h1 class="mx-auto poppins font-semibold text-xl sm:text-2xl md:text-5xl">
-      I am...
-    </h1>
+    <h1 class="mx-auto poppins font-semibold text-3xl md:text-5xl">I am...</h1>
     <div class="flex flex-col gap-12 w-full mx-auto sm:gap-16 md:gap-20">
       <div class="flex flex-col gap-4 sm:flex-row sm:gap-8">
-        <p
-          class="poppins text-2xl sm:text-xl md:text-6xl text-indigo-500 font-semibold"
-        >
+        <p class="poppins text-4xl md:text-6xl text-indigo-500 font-semibold">
           01
         </p>
         <div class="flex flex-col gap-4 sm:gap-8">
-          <h3 class="text-lg sm:text-xl md:text-5xl">a developer</h3>
+          <h3 class="text-2xl md:text-5xl">a developer</h3>
           <p>
             Currently I work as a Backend Software Engineer at <a
               href="https://www.outboundiq.com"
@@ -28,13 +24,11 @@
         </div>
       </div>
       <div class="flex flex-col gap-4 sm:flex-row sm:gap-8">
-        <p
-          class="poppins text-2xl sm:text-xl md:text-6xl text-indigo-500 font-semibold"
-        >
+        <p class="poppins text-4xl md:text-6xl text-indigo-500 font-semibold">
           02
         </p>
         <div class="flex flex-col gap-4 sm:gap-8">
-          <h3 class="text-lg sm:text-xl md:text-5xl">a student</h3>
+          <h3 class="text-2xl md:text-5xl">a student</h3>
           <p>
             I am a computer science and cybersecurity student at <a
               href="https://www.fau.edu"
