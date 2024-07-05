@@ -1,5 +1,5 @@
 <div class="hero bg-base-200 min-h-screen bg-inherit">
-  <div class="hero-content flex-col lg:flex-row">
+  <div class="hero-content flex-col lg:flex-row gap-12">
     <img
       src="profile.png"
       alt="profile photo"
@@ -14,9 +14,20 @@
       <p class="py-6 text-xl">
         I'm a software engineer and I love building cool shit.
       </p>
-      <button class="btn btn-primary bg-indigo-500 border-indigo-500"
-        ><a href="resume.pdf" class="text-slate-300">Resume</a></button
-      >
+      <div class="flex items-center gap-10">
+        <button class="btn btn-primary bg-indigo-500 border-indigo-500"
+          ><a href="/about" class="text-slate-300">About</a></button
+        >
+        <button class="btn btn-primary bg-indigo-500 border-indigo-500"
+          ><a href="/projects" class="text-slate-300">Projects</a></button
+        >
+        <button class="btn btn-primary bg-indigo-500 border-indigo-500"
+          ><a href="/contact" class="text-slate-300">Contact</a></button
+        >
+        <button class="btn btn-primary bg-indigo-500 border-indigo-500"
+          ><a href="/blog" class="text-slate-300">Blog</a></button
+        >
+      </div>
     </div>
   </div>
 </div>
