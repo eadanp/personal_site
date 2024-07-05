@@ -35,7 +35,7 @@
           >
           where I continue to learn and grow my skills. I am also working on a research
           in the field of the Internet of Battlefield Things (IoBT) where I contribute
-          to academic papers that are under review or upcoming publications.
+          to academic papers that are under review for upcoming publications.
         </p>
       </div>
     </div>
