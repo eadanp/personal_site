@@ -24,7 +24,8 @@
           ><a href="/projects" class="text-slate-300">Projects</a></button
         >
         <button class="btn btn-primary bg-indigo-500 border-indigo-500"
-          ><a href="/contact" class="text-slate-300">Contact</a></button
+          ><a href="mailto:form@eadanp.tech" class="text-slate-300">Contact</a
+          ></button
         >
         <button class="btn btn-primary bg-indigo-500 border-indigo-500"
           ><a href="/blog" class="text-slate-300">Blog</a></button
