@@ -9,7 +9,7 @@
   injectSpeedInsights();
 </script>
 
-<div class="flex flex-col w-full min-h-screen">
+<div class="flex flex-col w-full h-screen bg-slate-300">
   <Header />
   <slot />
   <Footer />

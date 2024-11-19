@@ -1,11 +1,11 @@
-<div class="hero bg-base-200 min-h-screen bg-inherit">
-  <div class="hero-content flex-col lg:flex-row gap-12">
+<div class="hero bg-base-200 bg-inherit">
+  <div class="hero-content flex-col lg:flex-row gap-12 p-4 md:p-8 lg:p-12">
     <img
       src="profile.png"
-      alt="profile photo"
-      class="max-w-sm rounded-lg shadow-2xl"
+      alt=""
+      class="max-w-full h-auto rounded-lg shadow-2xl"
     />
-    <div>
+    <div class="text-center lg:text-left">
       <h1 class="text-5xl font-bold text-indigo-500 flex flex-col gap-2">
         Eadan Plotnizky <span class="text-slate-900 text-4xl"
           >Software Engineer</span

@@ -1,4 +1,4 @@
-<header class="flex flex-col relative z-20 bg-slate-300">
+<header class="flex flex-col flex-grow bg-slate-300 max-h-40">
   <div
     class="max-w-[1400px] mx-auto w-full flex items-center justify-between p-4 py-6"
   >
