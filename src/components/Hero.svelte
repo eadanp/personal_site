@@ -17,18 +17,29 @@
       <div
         class="flex flex-row flex-wrap items-center justify-center gap-4 md:gap-6 lg:gap-10"
       >
-        <button class="btn btn-primary bg-indigo-500 border-indigo-500"
-          ><a href="/about" class="text-slate-300">About</a></button
+        <a href="/about"
+          ><button
+            class="btn btn-primary bg-indigo-500 border-indigo-500 text-slate-300"
+            >About</button
+          ></a
         >
-        <button class="btn btn-primary bg-indigo-500 border-indigo-500"
-          ><a href="/projects" class="text-slate-300">Projects</a></button
+        <a href="/projects"
+          ><button
+            class="btn btn-primary bg-indigo-500 border-indigo-500 text-slate-300"
+            >Projects</button
+          ></a
         >
-        <button class="btn btn-primary bg-indigo-500 border-indigo-500"
-          ><a href="mailto:form@eadanp.tech" class="text-slate-300">Contact</a
-          ></button
+        <a href="mailto:form@eadanp.tech"
+          ><button
+            class="btn btn-primary bg-indigo-500 border-indigo-500 text-slate-300"
+            >Contact</button
+          ></a
         >
-        <button class="btn btn-primary bg-indigo-500 border-indigo-500"
-          ><a href="/blog" class="text-slate-300">Blog</a></button
+        <a href="/blog">
+          <button
+            class="btn btn-primary bg-indigo-500 border-indigo-500 text-slate-300"
+            >Blog</button
+          ></a
         >
       </div>
     </div>
